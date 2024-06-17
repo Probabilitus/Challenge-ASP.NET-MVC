@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Challenge-ASP.NET-MVC.props" />
+</Project>
